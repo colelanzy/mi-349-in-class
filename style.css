@@ -70,6 +70,6 @@ a {
 }
 
 .icon {
-    align-self: right;
     width: 50px;
+    margin-left: -120px;
 }
