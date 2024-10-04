@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     margin-top: 8vh;
-    margin-bottom: 5px;
+    padding-bottom: 0px;
 }
 
 p {
@@ -28,4 +28,10 @@ p {
 ul {
     font-size: 26px;
     line-height: 2em;
+}
+
+hr {
+    margin-left: -10%;
+    margin-right: -10%;
+    color: #894E3A;
 }
