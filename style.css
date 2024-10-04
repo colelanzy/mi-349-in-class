@@ -22,7 +22,7 @@ h2 {
     margin-top: 15vh;
     margin-left: 5vw;
     margin-bottom: 5px;
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 
 p {
@@ -42,4 +42,8 @@ hr {
     background-color: #894E3A;
     height: 1px;
     border: none;
+}
+
+a {
+    text-decoration: none;
 }
