@@ -17,6 +17,11 @@ h1 {
     margin-bottom: 0px;
 }
 
+h3 {
+    margin-right: 50vw;
+    margin-top: 8vh;
+}
+
 p {
     line-height: 1.4em;
 }
