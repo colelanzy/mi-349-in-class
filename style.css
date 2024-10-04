@@ -12,7 +12,7 @@ img {
 
 h1 {
     color: #894E3A;
-    font-size: 4em;
+    font-size: 10vw;
     margin-bottom: 0px;
     margin-left: 5vw;
     margin-top: 0px;
@@ -21,7 +21,7 @@ h1 {
 h2 {
     margin-top: 15vh;
     margin-left: 5vw;
-    font-size: 3em;
+    font-size: 8vw;
 }
 
 p {
