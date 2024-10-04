@@ -21,7 +21,8 @@ h1 {
 h2 {
     margin-top: 15vh;
     margin-left: 5vw;
-    font-size: 4vw;
+    margin-bottom: 5px;
+    font-size: 3vw;
 }
 
 p {
