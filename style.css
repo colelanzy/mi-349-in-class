@@ -14,11 +14,13 @@ h1 {
     color: #894E3A;
     font-size: 4em;
     margin-bottom: 0px;
+    margin-left: 5vw;
 }
 
 h2 {
     margin-top: 8vh;
     padding-bottom: 0px;
+    margin-left: 5vw;
 }
 
 p {
@@ -28,6 +30,7 @@ p {
 ul {
     font-size: 26px;
     line-height: 2em;
+    margin-left: 5vw;
 }
 
 hr {
