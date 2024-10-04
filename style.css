@@ -56,3 +56,7 @@ a {
 .column {
     flex: 50%;
 }
+
+.favorite_title {
+    margin-left: 0px;
+}
