@@ -61,3 +61,7 @@ a {
 .favorite_title {
     margin-left: 0px;
 }
+
+#photo {
+    align-content: center;
+}
