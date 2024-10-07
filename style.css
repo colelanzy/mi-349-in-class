@@ -62,12 +62,12 @@ a {
 
 .left {
     margin-top: 15vh;
-    margin-left: 5vw;
-    width: 10%;
+    margin-left: -3vw;
+    width: 5%;
 }
 
 .right {
-    width: 90%;
+    width: 95%;
 }
 
 .favorite_title {
